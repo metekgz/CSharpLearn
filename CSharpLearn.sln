@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{595D305F-A18A-4762-A5DA-EA946413204D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{9F762616-5212-404F-AA7E-FB4AC4992533}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{A7330167-FC4D-42E2-B5EF-571BD02978DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{595D305F-A18A-4762-A5DA-EA946413204D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{595D305F-A18A-4762-A5DA-EA946413204D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{595D305F-A18A-4762-A5DA-EA946413204D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{595D305F-A18A-4762-A5DA-EA946413204D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F762616-5212-404F-AA7E-FB4AC4992533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F762616-5212-404F-AA7E-FB4AC4992533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F762616-5212-404F-AA7E-FB4AC4992533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F762616-5212-404F-AA7E-FB4AC4992533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7330167-FC4D-42E2-B5EF-571BD02978DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7330167-FC4D-42E2-B5EF-571BD02978DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7330167-FC4D-42E2-B5EF-571BD02978DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7330167-FC4D-42E2-B5EF-571BD02978DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED0FA3C4-41A5-4809-A700-DE24C70246C2}
+	EndGlobalSection
+EndGlobal
